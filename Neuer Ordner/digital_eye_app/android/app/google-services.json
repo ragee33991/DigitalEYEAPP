@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573529212933",
+    "firebase_url": "https://digitaleye-e8048.firebaseio.com",
+    "project_id": "digitaleye-e8048",
+    "storage_bucket": "digitaleye-e8048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573529212933:android:56da638ca556c1c48d346c",
+        "android_client_info": {
+          "package_name": "com.digital.dryeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573529212933-7sob7u88ve3kq75182iamhnnjnsoi2kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digital.dryeye",
+            "certificate_hash": "d5d56412fd1a53e8fbc82c798cf554890df5385c"
+          }
+        },
+        {
+          "client_id": "573529212933-3uc3t6hffif248ualkh73icq3e35chdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtpgOVLkbGkfIMXOwKZUchPPE-8M_e858"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573529212933-3uc3t6hffif248ualkh73icq3e35chdj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573529212933-duks6a2091vs1t7as2i6c3gd9jo4ac27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.new.digital"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
